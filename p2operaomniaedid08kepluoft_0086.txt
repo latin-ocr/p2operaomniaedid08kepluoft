@@ -1,0 +1,63 @@
+632 Summanum Historiae Astronomiae seculo XVI.
+
+ille falso nec ego male loquens de puncto, ubi maxima est haec aequatio. —-
+Pono hic causas motuum physicas, ponunt alii circulos et causas geometricas,
+1100 contentus Praetorius imperat aut morositate hac adigit nos, ut cogamur,
+practer tot circellos adhuc etiam plures ponere circellos. Probet ergo Prae-
+torius, causas motuum esse geometricas, nimirum circulos, et ego ipsi appro-
+babo causas motuum esse physicas: puto hic discernemur, uter paucioribus
+indigeat principiis, quam palmam hic affecto. Pone, menstruas aequationes
+sic esse ad se mutuo, ut suut ad invicem sinus distantiae Lunae a Sole, esse
+vero errorem in distantia Lunae a Sole circiter 272⁰, ut pro 90⁰ sit 87¹s20,
+erit igitur aequatio menstrua quaesita pro 2⁰ 30‘ (quae jam sit totalis) alia
+erronea, nimirum ‘20 29¹ 52‘1. Nam ut sinus 90Ο ad sinum 87¹s2⁰ (100000
+ad 93905), Sic 2⁰ 30¹ ad 2⁰ 29‘ 52‘s.
+
+Ad 0: Neque hoc astronomicum est. Keplerus: Non est igitur astrono-
+mus Ptolemaeus, qui plurimis in locis indulget compendiis cum damno minimo,
+imo interdum cum damno s‘-—9‘. Egregius vero astronomus, qui calculum
+involvit perplexitatibus non necessariis: quo nornine Prutenicae tabulae a qui-
+busdam morosissime arguuntur.
+
+[Praetoriusz Aliud dubium) Imo nihil hic aliud quam supra, cum dice-
+rem, errare posse calculum circiter o‘—ss‘.
+
+Ad p: Eadem mens fuit Ptolemaei et Copernici3 cur igitur ipsos non est secutus?
+Keplerus: En confitentem3 sed jam apparet, quid velit. Nimirum hoc con-
+tendit: aut reliquendum fuisse astronomiam in errore 1—5 graduum (nam in
+Venere potest esse error 5⁰) aut consectanda fuisse δ” 01 reliquas λεπτολογιας.
+
+Ad q: Nuda hic requiritur assensio. Keplerus: Assensio requiritur, sed
+non nuda, verum evicta per demonstrationes aut obse1·vationeS‚ quae testantur
+de hac inaequalitate 41‘ a veteribus plane neglecta.
+
+Ad r: Postulatur hypothesis astronomica, principiis constans astronomicis.
+Keplerus: Sic est. Tantum ne astronomo sit interdictum, pulsare fores
+physices aeque ac geometriae quoties opus suerit.
+
+Ad s: Quaestio erat, cur in toto hoc calculo, alias accurato, non adhibuerit
+parallaxin et refractionem, sed nullam harum mentionem fecerit? Keple1·us:Paral-
+laxis adhiberi intelligitur vel in calculo vel in observatione. Parallaxin et
+refractionem calculare docuit a sol. 119 in 125 lunarium. (Progymn.) In ob-
+servatis locis, quae allegat et quae calculo proponit exprimenda, spectasse
+parallaxin et refractionem inde patet, quod ubique additur vera longitudo, vera
+latitudo, si remotae fuerunt hae variationes horizontales. At ubi observatio
+adhuc fuit implicita his, semper addit: „visa latitudo“.
+
+Ad t: Satis patet ex schemate (1 1.), lineas apsidum parallelas esse debere lineae
+AF. Si jam apsidum linea cum ipsa AB dicitur circumire, dicendum est, super quo
+centro? quod novam ponit considerationem et totius calculi diversitatem; ut et hoc
+novum videtur, quod circuitio annis δὲ compleri debet. Fortassis voluit dicere 183,
+qualis alias tribuitur fere motui nodorum, qui quidem in longitudinis motum se quo-
+
+que insinuat et suo modo conciliandus est, ut longitudinis considerationem non im-
+pediat. Kepler us: Non B sed C est centrum eccentrici Lunae (vel quasi
+
+eccentrici). Nimirum ADB est menstrua aequatio, DBG epicylica‚ cui aequalis
+BDE, 111 tota sit ADE.
+
+Anceps mihi lucta cum Praetorio, cum multa frustra desideravit, unum
+me desiderantem non fert, at infeliciter, cum ne sic quidem capiat. Non se-
+quitur, si parallelae sunt AF et GD perpetuo, ergo fixus locus apogae13 trans-
+eunt enim utraque simul, parallelae manentes, super centris A Terrae et G
+

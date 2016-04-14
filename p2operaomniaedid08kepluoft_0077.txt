@@ -1,0 +1,57 @@
+Summarium Historiae Astronomiae seculo XVI. 623
+
+maximum ibi angulum efficiat. Quo motu effici dicit, ut orbita Lunae eclipticam in
+alio atque alio intersecet loco eoque nodi varientur et prius in antecedentia post in
+consequentia moveantur, atque hinc oriatur variatio latitudinis. Differentia maximae
+et minimae inclinationis est. 19¹ (50 17’ 3Ο“-40 58‘ 30¹¹) eamque esse (licit Tycho
+diametrumcircelli, quam cum observationes tum doctrina- triangulorum confirment5
+maximam nodorum prosthaphaeresin metiri angulum 1⁰ 46‘. His praemissis (quibus
+etiam finiuntur *paginae interpositae) proponuntur tabulae prosthaphaeresium nodorum
+et latitudinis, adjunctis „exemplis ut omnia rectius intelligi possint‘t. Exemplo quarto,
+hanc adjungit trigonometricam demonstrationem. Sit C (cfr. fig. 2) centrum „circelli“‚
+cujus semidiameter OG: 9* 30¹¹, CD media inclinatio orbitae Lunae ad eclipticam
+50 8’, maxima vera distantia duplicata luminarium numeretur a B per HAG 7⁸ 14⁰
+36¹ 19⁸, quare angulus DCG = 4³ 150 23¹ 44“, hinc computatur angulus GDC = 1⁰
+12¹ 57” (prosthaphaeresis nodorum) et GD = 50 14¹ 50“ (inclinatio). Prosthaphaeresis
+absoluta 4⁰ 40¹ 14¹¹, motus lat. verus 9·ιι 00 5Ῑ’ 20¹¹ (ex exemplo praemisso), hinc coae-
+quatus 8³ ‘25⁰ 4¹ 9⁰, cujus complementum (Lunae distantia a nodo) = 3S 4⁰ 55¹ 51¹¹.
+Jam proportione: sin. tot. ad sin. GD, ut sin. dist. a nodo ad sin. latitudinis: latitudo
+5⁰ 13‘ 40¹¹ bor.
+
+Distantiam Lunae a Terra contendit Tycho a Ptolemaeo nimium variabilem
+(variasse inquit per 3οξ semidiametros Terrae) assumtam esse. Ipsius accuratas ob-
+servationes distantiam maximam 6032„ minimam 5⁴23} semid. prodidisse, ut sit tota diffe-
+rentia 83 semid.. quam parallaxium observationes potius aliquanto minorem patiantur.
+Ex Copernici hypothesi hanc differentiam excrescere ad 16 semidiametros. Ad suas
+illas distantias construxit Tycho tabulam parallaxium ad singulas semidiametros a
+52 in 61 et ad omnes gradus quadrantis ab horizonte ad verticem.
+
+Hanc Lunae theoriam Tychonis, parum perspicuam, Keplerus brevi post mor·
+tem Tychonis emendare et sibi aliisque dilucidiorem reddere conabatur, cujus studii
+testimonia habemus in fragmentis libri, quem titulo „Hipparchi“ insignire statuerat,
+nec non in iis, quae Herwarto dedicavit, item non ad calcem perductis (Transformatio
+hypotheseos Lunae). Conferatur vol. 111. p. 520 ss. p. 591 ss. In manuscriptis Pulko-
+viensibus deprehendimus praeter illa, quae l. c. proposuimus, quaestiones Praetorii de
+Tychonis hypothesi lunari cum responsionibus Kepleri, quas praemissis adjungendas
+censuimus.
+
+Caspar Odontius, qui aliquamdiu Kepleri adjutor in calculis fuerat, anno 1606.
+Praga Altorfium, patriam urbem, reversus est (cfr. vol. ΙΙΙ. 8 et VI. 6:37) ibique cum
+Joanne Praetorio, professore matheseos in academia Altorfiaua convenit. Ille Praeto-
+rium certiorem fecit de Kepleri et Tychonis studiis astronomicis interque alia de edi-
+tione Progymnasmatum Tychonis verba fecisse videtur. Praetorius, accuratius in-
+specta Lunae theoria Tychonica‚ quae minus placebant vel dubia videbantur collegit
+et Odontio tradidit in hunc finem, ut Keplerum interpellaret ejusque sententiam pro-
+vocaret. Simul easdem quaestiones Praetorius Herwarto ab Hohenburg Monachium
+misit, idem forte spectans. Uterque adiit Keplerum, sententiam ejus expetens. Her-
+wartus scripsit (16. Jan. 1607): „De hypothesi lunari Tychonis kan ich von niemand
+auderem als (lem Herrn bessere Resolution bekommen, also hab ich zu Ihm tanquam
+lydium lapidem meine Zuflucht genommen.“ Odo ntius vero his alloquitur Keplerum:
+
+Nobilis et doctissime Vir, Domine et fautor multis nominibus mihi colende.
+Cum ab eo usque tempore, ex quo de Domini Tychonis Brahe praeclaris laboribus
+et utilissimis scriptis aliquid versare coepi, semper mihi nomen ejus magno amori fuit,
+tum vero, quod hoc seculo de astronomiae instauratione omnium calculo vir sit optime
+meritus. Verum quae sunt ejus viri nobis relicta Progymnasmata de luminarium
+motuum restitutione, ea videntur mihi nondum satis concocta (quod tamen venia tanti
+

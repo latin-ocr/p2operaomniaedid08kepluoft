@@ -1,0 +1,53 @@
+584 Summarium Historiae Astronomiae seculo XVI.
+
+Eodem fere tempore, quo Copernici opuS, prodiit Franzisci Maurolyci,
+Abbatis Messanensis (nat. anno 1495, mort. 1575) „Cosmographia, in tres dialogos
+distincta, in quibus de forma, situ numeroque tam coelorum quam elementorum aliis-
+que rebus ad astronomica rudimenta spectantibus satis disseritur“. —- Sub finem legi-
+mus: Completum opus Messanae die Jovis 21. Oct. 1535, quo die Carolus Caesar V.
+ab Africana expeditione reversus Messanam venit. — Geographiam deprehendimus
+mathematicam, Ptolemaeo innixam3 usitatis rationibus confirmare studet auctor, coelum
+esse sphaericum ejusque motum circularem, Terram esse rotundam atque in centro
+sitam et firmamento collatam quasi punctum, „nec necesse fuisset astronomis, aliud
+circa Terram fundare principium, nisi opinionum diversitas et humana mobilitas adeo
+crevisset, ut dubitatum sit, ne crederet forte quispiam diceretque Terram coelo quies-
+cente super axem versari“. Hanc opinionem acriter impugnat, omissis nominibus eorum.
+qui ista contenderant. Quae supra (p. 565) citata sunt verba leguntur in libro „de
+sphaera“, qui inest „Opusculis 1111111101111111013ιι (Ven. 1575), ω- Quomodo Terrae ambitum
+dimetiri veteres conati sint, recenset, suamque rationem, quam ipse dicit „me hercle
+ingeniosissimani“ explicat. „Eligendus est inprimis mons quam editissimuS, unde maris
+prospectus late pateat. Existimo Aetnam huic negotio aptissimum, nam ex ejus apice
+per plura quam 200 passuum millia in pelago visus protenditur totusque insulae am-
+bitus circumspicitur. Per quadratum altimetrum exquirenda est Aetnae altitudo, deinde
+ex ipso montis apice metiemur, quantumcunque prospiciemus pelagi spatium ad peri-
+pheriam usque horizontis extremi marisque contactum. Quod intervallum etsi rectum
+non sit, a recto tamen sensibili diversitate non discrepat ob exiguam circumferentiam.“
+Ex cognita montis altitudine et intervallo horizontis contactus cum maris superficie
+ab ipso monte per Eucl. Ι, 47 trianguli deprehenditur hypotenusa, indeque per Eucl. ΙΙΙ,
+37 et subtractione montis altitudine Terrae diameter elicitur. (cfr. vol. VI. p. 133.)
+Hinc ad astronomica abit, Ptolemaeum plane seeutUS, et his verbis raptim interrupta
+disputatione libri finem facit: „Sssd nescio, quem tumultum ac turbarum quasi clango-
+rem audire videor. Suspicor Mamertinum senatum exiisse in occursum Caroli Caesaris,
+quem a coenobio D. Placidi, quo heri appulerat, digressum jam urbi appropinquare
+fama est, Itaque monet hora, ut- coepto sermoni finem imponentes aggrediamur visuri
+festivum ac triumphalem urbis tantum principem excipientis apparatum‘a —— Opus hoc
+magni fecisse aequales, testantur complures ejus editiones annis 1540, 1543, 1558, 1575,
+’1626 et 1681, — Ideni Maurolyeus confecit opus de instrumentis astronomicis (Opus-
+cula mathematica) in quo astrolabium describit Jordanum Nemorarium secutus (c. a.
+1200), instrumentum armillare seu astrolabium Hipparchi sphaeramque solidam. In
+„Sphaerieorum libris II“, quos junctim cum Theodosii, Menelai, Autolyci aliorumque
+de iisdem scriptis Messanae inprimendos curaverat a. 1558, primum deprehendimus
+usum „seea11tium‘⁴. Notandum videtur theorema de cosinibus inter duo latera trianguli
+obliquanguli sphaerici et baseos segmenta, quae arcus a vertice ad angulos rectos in illam
+demissus format; sinus angulorum ad verticem proportionales esse angulorum ad basin
+cosinibus, quo theoremate caleulum compendiosiorem reddi affirmat auctor. Praeterea
+notandum est Maurolyci opus opticum inscriptum: Photismi de lumine et umbra,
+ad Prospectivam et radiorum incidenti-am facientes. Ven. 1575. (rec. Messanae et
+Lugduni 1613, additis notis Chr. Clavii). Plurima hic e Vitellione desumta depre-
+hendimus geometrice demonstrata. De illuminatione sphaerici corporis per sphaeri-
+cum, de inversione umbrae et de inversione imaginum per foramen in planum radian-
+tium accuratius agit, unde colligit, elongatione plani, in quod radii incurrant, imagines
+paulatim coire: „quo magis a lucido per qualecunque foramen radiante processerint
+radii, eo magis in planum, quod lucido parallelum est, profectum lumen ad ipsius lucidi
+similitudinem accedit et tandem, sensu decepto, ipsi simile videtur et in situ conver-
+

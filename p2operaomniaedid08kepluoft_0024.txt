@@ -1,0 +1,71 @@
+’ 570 Summarium Historiae Astronomiae seculo XVI.
+
+trum secundum distantiam CM et G similiter secundum IG et CN aequales. Interea
+si centrum Terrae jam emensum fuerit utcunque FO circumferentiam secundi ac sui
+epicycli, jam ipsum O non describet eccentrum, cui centrum in Ac contingat, sed in
+ea, quae ipsi DO parallela fuerit, qualis est LP. Quodsi etiam conjungantur 01 et
+et ΟΡ, erunt et ipsae aequales, minores autem ipsis IF et CM, et angulus DIO =
+LCP, et pro tanto videbitur Solis apogaeum in CP linea praecedere ipsam CA. Hinc
+etiam manifestum est, per eccentrepicyclum idem contingere, quoniam in praeexistente
+solo eccentro‚ quem descripserit D epicyclium circa L centrum, centrum Terrae vol-
+vatur in FO circumferentia praedictis conditionibus, h. e. plus modico, quam fuerit
+annua revolutio. Superinducet enim alterum eccentrum priori circa P centrum acci-
+dentque prorsus eadem. Cumque tot modi ad eundem numerum sese conferant, quis
+locum habeat haud facile dixerim, nisi quod illa numerorum ac apparentium perpetua
+consonantia credere cogit, eorum esse aliquem.“
+
+Medium aequalem motum apogaei computat Copernicus 10⁰ 41‘ in annis mediis
+Aegyptiis 1580 (ab anno a. Ch. 64, quo assumit aequationem fuisse = Ο, ad annum
+1515) indeque annuum 24‘1 20¹‘¹ ’14””. Haec subtracta ab annuo motu simplici 359⁰
+44⁴ 49ss 7¹¹¹ 4¹⁰¹ (capite 14. inventi), relinquunt annuum anomaliae motum aequalem
+359⁰ 44‘ 24¹¹ 46”’ 50””, qui divisus per 365 exhibet diurnum motum 59¹ 8¹¹ 7¹¹¹ 220⁴.
+Ad inveniendum verum Solis locum construit Copernicus tabulas „motus Solis ae·
+qualis simplicis“ et „prosthaphaereseon Solis“ (cap. 14. et 24.) et capite 25. explicat
+earum usum: „quaerendus est verus aequinoctii verni locus cum anomalia simplici
+sua prima, medius motus centri Terrae simplex ac annua annomalia, quae addantur.
+Cum anomalia simplici inventa in tabula invenies anomaliae annuae prosthaphaeresin,
+quam addito anomaliae annuae vel subtrahe. Quod reliquum aggregatumve fuerit,
+erit anomalia Solis coaequata, per quam sumito prosthaphaeresin orbis annui, cum
+excessu, qui semper addatur, fietque ipsa prosthaphaeresis aequata, quae auferatur
+a medio loco Solis vel addatur. Quod residuum collectumve fuerit, verum Solis locum
+determinabit a capite Arietis sumtum3 cui si demum adjiciatur vera aequinoctii verni
+praecessio, confestim etiam ab aequinoctio ipso Solis locum ostendet in signis et gradi-
+bus circuli“.
+
+Haec illustrat editor Miillerus hoc exemplo ad annum 1515 d. 14. Sept. mane
+ὴὲ- post ortum Solis.
+
+Praecessio aequinoctiorum. Radix . . 5⁰ 32¹
+
+25 Sexagenae annorum ........ 20. 55. 2”
+
+15 anni ,,,,,,,,,,,,, 12. 33. 1’”
+4 sexag‚ dierum .......... 33. Ο.
+29 dies ............. 3. 59.
+17 scrupula ............ 2.
+
+Summa. 26. 40. 12. 2.
+Anomalia simplex aequinoctii. Radix 6. 45.
+25 sexag. annorum ........ 2. 37. 15. 3.
+
+15 anni .......... 1. 34. 21. 2.
+4 sexag. dierum ......... 4. 8.
+
+29 dies ........... 29. 58.
+
+17 semp ........... 17.
+
+Summa: sexag. 2. 45⁰ 39¹ 2¹¹ 17⁴⁰ anomalia simplex.
+Duplum 5. 31. 18. 4. 34, per quam invenitur
+prosthaphaeresis aequin. 35¹, addenda medio motui 26⁰ 40¹: vera praecessio aequinoctii 27⁰ 15‘.
+Motus Θ a prima. stella Arietis ..... 32ο 30’
+. 40. 27. 56”
+56. 12. 16. 46”’
+56. 32. 45.
+28. 34. 57. 29.
+16. 45. 19.
+
+Summa: W
+
+9²9¹0¹5³
+

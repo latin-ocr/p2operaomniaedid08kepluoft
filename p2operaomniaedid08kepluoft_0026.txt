@@ -1,0 +1,58 @@
+572 Summarium Historiae Astronomiae seculo XVI.
+
+conformes. Atque in promtu causa erit, cur etiam corpus lunare sibi simile quodam—
+modo videatur atque cetera omnia, quae circa lunarem cursum cernuntur, sic evenient.“
+Cum, pergit, per instrumenta non sit observabilis Lunae locus, adhibendos esse defec-
+tus ejus, qui ubique Terrarum sibi similes sint, et quibus locus Lunae Soli oppositus
+cognoscatur, Esse propterea lunares defectus aptissimos, quibus certissima ratione
+cursus Lunae deprehendatur. In hunc finem capite 5. tres Ptolemaei observationes
+talium defectuum cum tribus ab ipso Copernico observatis comparantur, praemittitur
+vero (cap. 4.) inquisitio motuum Lunae mediorum duce Metone et Hipparcho. (Prodit
+motus Lunae aequalis⁷ quo differt a motu terrestri, annuus 1290 37¹ 22⁴¹ 36⁸¹ 25⁸⁰,
+anomaliae motus 880 43‘ 9“ 7¹“15‘¹“‚ motus latitudinis 1480 42¹ 45‘¹ 17¹0 2l““, quibus
+numeris innixae sunt tabulae motus Lunae, capiti 4. subjunctae.)
+
+Eclipses Lunae Ptolemaicae‚ quas eligit Comminus, sunt prima anni p. Ch. 133.
+6. Maji (medium Frueburgi h. 1. 45‘ ante mediam noctem), secunda anni 134. 13. Nov.
+(2 h. a, m. ns), tertia anni 136. 6. Martii (3 h. p. m. ιι). Eclipses quas ipse obser-
+vavit Copernicus evenerunt anno 1511. d. 6. Oct. (30¹ 5¹¹1). m. n), 1522. 5. Sept.
+(h. 1. 20¹ p. m. ns), 1523. 25. Aug. (h. 3. 55¹ p. m. n.).
+
+Sint loca trium Ptolemaei eclipsium in epicyclo Lunae (fig. 2.) signata punctis
+G, H, Ι, GH z 110⁰ 21¹, HI = 81⁰ 36¹, IG Ξ 1680 3¹. Calculus trigonometricus prodit
+GA :z 450 43¹ „quae est distantia Lunae a summa apside epicycli in primo deliquio,
+sive anomalia“. Hinc AH = 64⁰ 38¹ (anomalia in secundo deliquio) et AH1= 146⁰
+14¹, „ad quam tertium deliquium incedebat.“ Angulus CDG=3⁰ 22¹, „quae est
+prosthaphaeresis‚ quam addit anomalia in prima eclipsi“; GDH z 7⁰ 42¹, quare ADH =
+4⁰ 20‘3 HD1= 10 21’, IDB z 2⁰ 49‘, „ablativa prosthaphaeresis ipsius AHI circum-
+ferentiae in tertia eclipsi. Erat ergo medius Lunae locus, h. e. C centri, in prima
+eclipsi 90 531111, eo quod apparens ejus locus esset in 13⁰ 15¹ 1η, in secunda 290
+30‘ V, in tertia 17⁰ 4¹ ΠΡ. Distantiae Lunae a Sole inveniuntur 177⁰ 33¹, 182⁰ 47⁴,
+185⁰ 20¹. Hoc modo Ptolemaeus& Ad eclipses ab ipso observatas prodit Copernicus
+motus Solis medios in 24⁰ 13¹ st, 23⁰ 49¹ ΠΡ, 130 2’ ΠΡ et adhibita simili priori deli-
+neatione computat loca Lunae media in 220 3’ V, 26⁰ 50¹ )(⁷ 13⁰ )(, at annuos
+Lunae medios motus 170⁰ 502 182⁰ 51¹, 170⁰ 58¹, anomalias 183⁰ 51¹, 71⁰ 27¹, 21⁰ 10¹,
+semidiametrum epicycli (eccentricitatem) computat ex eclipsibus Ptolemaicis 8706
+(DC = 100000)‚ ex suis 8604. Ex differentiis distantiae Lunae et Solis et anomalia—
+rum in secundis eclipsibus elicitur (cap. 6.) defectus motuum Lunae Ptolemai et Hip-
+parchi 26', anomaliae 38¹, „quae nostris accrescunt consentiuntque numeris, quos ex-
+posuimus& Capite 8. constituit Copernicus rationem semidiametrorum epicyclorum ut
+1097 ad 237, qualium DC Ξ 10000 (.‚secunda diffe1·entia“). Capite 9.: „Reliqua dif-
+ferentia, qua Luna a summa apside epicycli inaequaliter moveri videtur‘* per calculum
+trigonometricum et numeros 1097 et 237 elicitur 12⁰ 28¹. Hanc maximam differen-
+tiam, qua Luna a summa apside variet, contingere dicit, „quando Luna medio motu
+a linea medii motus Terrae ante et pone distiterit 380 46¹.
+
+Ad probanda praemissa observatio Hipparchi (Ptol. V. 5.) locorum Solis et
+Lunae eligitur (cap. 10). Calculus prodit aequationem lunarem 1⁰ 29¹, qua correctus
+motus Lunae a Sole 45⁰ 5¹ evadit 46⁰ 34¹. Huic addito motu Lunae medio 102⁰ 3¹,
+prodit motus verus 28⁰ 37¹ g), a quo ablatus motus Solus verus 1o⁰ 40¹ ΞΕ, relinquit
+distantiam angularem veram 47⁰ 57‘. Hipparchi vero observatio exhibet 48⁰ 6¹, dif-
+ferentia 9¹, quae redit ad 2‘, observando reductionem ad eclipticam efficere 7¹. „Sic
+illa secundum Hipparchum distantia luminarium, quam per instrumentum acceperat
+48⁰ 6¹, consensu mirabili et quasi ex condicto supputationi nostrae convenit.“ His
+innixus Copernicus cap. 11. condit tabulam „prosthaphaeresium sive aequationum
+lunarium“‚ et cap. 12. proponit ejus usum.
+
+ 
+
